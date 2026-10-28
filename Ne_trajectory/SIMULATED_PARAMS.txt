@@ -1,0 +1,17 @@
+# MSprime simulation parameters
+# Simulated trajectory file:
+SIMULATED_TRAJECTORY.txt
+# Mutation rate per site per generation:
+2.5e-8
+# Gene conversion rate per site per generation:
+0
+# Recombination rate (cM/Mb):
+1
+# Average distance between polymorphic sites D (bp):
+101.5
+# Average heterozygosity of polymorphic sites:
+0.1954
+# Chromosome number:
+10
+# Chromosome size (bp):
+135000000
